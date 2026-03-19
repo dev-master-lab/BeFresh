@@ -1,4 +1,4 @@
-# AI Coding Starter Kit
+
 
 > Build production-ready web apps faster with AI-powered Skills handling Requirements, Architecture, Development, QA, and Deployment.
 
